@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @paikbogum
+- 👋 Hi, I’m @Jerry
 - 👀 I’m interested in iOS
 - 🌱 I’m currently learning Swift 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🥹 I launched an application service called "돼동여지도"
 
 <!---
 paikbogum/paikbogum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
